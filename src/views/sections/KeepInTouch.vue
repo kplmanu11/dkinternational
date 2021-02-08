@@ -10,7 +10,7 @@
           md="5"
         >
           <base-business-info title="KEEP IN TOUCH WITH US">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo pariatur quidem, quis modi iure nihil commodi suscipit, corporis dicta adipisci, voluptatum quia cupiditate.
+            DK international is a company to make the trade easy and safe. We have a good connection and collaboration with the best companies all over the china. So feel free to contact and trade with us to promote your business to the next level.
           </base-business-info>
         </v-col>
 
