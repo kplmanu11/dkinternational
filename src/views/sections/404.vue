@@ -13,7 +13,7 @@
     />
 
     <base-img
-      :src="require('@/assets/logo.svg')"
+      :src="require('@/assets/dk_img/logo.jpg')"
       class="mx-auto mb-12"
       contain
       height="350"

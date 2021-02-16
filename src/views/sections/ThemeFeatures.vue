@@ -1,7 +1,6 @@
 <template>
   <base-section id="theme-features">
     <base-section-heading title="Our Awesome Clients">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, in! Asperiores, impedit libero. Veniam rerum saepe unde nihil possimus quibusdam esse accusamus mollitia magni fuga.
     </base-section-heading>
 
     <v-container>
