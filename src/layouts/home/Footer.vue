@@ -57,10 +57,9 @@
       //   'Linkedin',
       // ],
       social: [
-        { name: 'Facebook', link: 'https://www.facebook.com/dkinternational' },
-        { name: 'Twitter', link: 'https://www.twitter.com/dkinternational' },
-        { name: 'Instagram', link: 'https://www.instagram.com/dkinternational' },
-        { name: 'Linkedin', link: 'https://www.linkedin.com/dkinternational' },
+        { name: 'Facebook', link: 'https://www.facebook.com/dkintrtrading' },
+        { name: 'Twitter', link: 'https://www.twitter.com/dkintrtrading' },
+        { name: 'Instagram', link: 'https://www.instagram.com/dkintrtrading' },
       ],
     }),
   }

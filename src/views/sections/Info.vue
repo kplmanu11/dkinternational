@@ -12,30 +12,30 @@
           <v-row>
             <v-col
               cols="12"
-              md="3"
+              md="4"
             >
               <base-info />
             </v-col>
 
             <v-col
               cols="12"
-              md="3"
+              md="4"
             >
               <base-info-card title="Contact" />
 
               <base-business-contact dense />
             </v-col>
 
-            <v-col
+            <!-- <v-col
               cols="12"
-              md="3"
+              md="4"
             >
               <info-features />
-            </v-col>
+            </v-col> -->
 
             <v-col
               cols="12"
-              md="3"
+              md="4"
             >
               <instagram />
             </v-col>
@@ -51,7 +51,7 @@
     name: 'SectionBusinessInfo',
 
     components: {
-      InfoFeatures: () => import('@/components/InfoFeatures'),
+      // InfoFeatures: () => import('@/components/InfoFeatures'),
       Instagram: () => import('@/components/Instagram'),
     },
   }

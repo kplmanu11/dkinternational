@@ -4,8 +4,9 @@
       <base-info-card
         title="KEEP IN TOUCH WITH US"
         pace="6"
+        class="text-justify"
       >
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo pariatur quidem, quis modi iure nihil commodi suscipit, corporis dicta adipisci, voluptatum quia cupiditate. Nulla minus voluptatum nostrum deleniti, asperiores facere.
+       DK international is a company to make the trade easy and safe. We have a good connection and collaboration with the best companies all over the china. So feel free to contact and trade with us to promote your business to the next level.
       </base-info-card>
 
       <base-business-contact dense />
