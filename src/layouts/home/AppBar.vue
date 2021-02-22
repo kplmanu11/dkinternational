@@ -7,20 +7,14 @@
       elevation="1"
       height="80"
     >
-      <!-- <base-img
-        :src="require('@/assets/logo.svg')"
-        class="mr-3 hidden-xs-only"
-        contain
-        max-width="52"
-        width="100%"
-      /> -->
-
+      <router-link to ="/">
       <base-img
         :src="require('@/assets/dk_img/logo.jpg')"
         contain
         max-width="133"
         width="100%"
       />
+      </router-link>
 
       <v-spacer />
 
