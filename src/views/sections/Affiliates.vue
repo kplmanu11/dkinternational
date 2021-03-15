@@ -8,7 +8,7 @@
       <base-section-heading title="Who's using DK International?" />
 
       <v-slide-group>
-        <template v-for="n in 6">
+        <template v-for="n in 4">
           <v-slide-item
             :key="n"
             class="align-self-center"
@@ -17,12 +17,12 @@
               :src="require(`@/assets/logo-${n}.png`)"
               color="grey"
               contain
-              height="40"
-              width="128"
+              height="120"
+              width="250"
             />
           </v-slide-item>
 
-          <v-responsive
+          <!-- <v-responsive
             v-if="n < 6"
             :key="`divider-${n}`"
             class="text-center"
@@ -30,7 +30,7 @@
             width="48"
           >
             <v-divider vertical />
-          </v-responsive>
+          </v-responsive> -->
         </template>
       </v-slide-group>
     </v-container>
