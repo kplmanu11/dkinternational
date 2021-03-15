@@ -18,14 +18,6 @@
       <base-body class="text-justify">
        DK international is a company to make the trade easy and safe. We have a good connection and collaboration with the best companies all over the china. So feel free to contact and trade with us to promote your business to the next level.
       </base-body>
-
-      <!-- <base-btn
-        class="mb-12"
-        color="white"
-        outlined
-      >
-        More Info
-      </base-btn> -->
     </div>
   </v-theme-provider>
 </template>
