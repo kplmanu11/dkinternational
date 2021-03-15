@@ -16,8 +16,8 @@
               <v-col cols="8">
                 <v-card-title>
                   <div>
-                    <div>DK international is amazing.</div>
-                    <div>(2020)</div>
+                    <div>DK international is amazing. I was delighted for starting trade with this company.</div>
+                    <!-- <div>(2020)</div> -->
                   </div>
                 </v-card-title>
               </v-col>
@@ -31,7 +31,7 @@
             </v-row>
             <v-divider dark></v-divider>
             <v-card-actions class="pa-4">
-              John Doe
+              Kapil Neupane
               <v-spacer></v-spacer>
               <span class="grey--text text--lighten-2 caption mr-2">
                 ({{ rating }})
@@ -58,8 +58,8 @@
       <v-col cols="8">
         <v-card-title>
           <div>
-            <div>DK international is amazing.</div>
-            <div>(2020)</div>
+            <div>It offers an ideal trading atmosphere for those who want to not only trade, but also grow and develop.</div>
+            <!-- <div>(2020)</div> -->
           </div>
         </v-card-title>
       </v-col>
