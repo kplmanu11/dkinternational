@@ -1,4 +1,4 @@
-<template>
+<!--<template>
   <base-section
     id="affiliates"
     class="grey lighten-4"
@@ -31,7 +31,7 @@
           >
             <v-divider vertical />
           </v-responsive> -->
-        </template>
+        </template> -->
       </v-slide-group>
     </v-container>
   </base-section>
